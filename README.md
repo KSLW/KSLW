@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://kirkwilkinson.netlify.app/d](https://kirkwilkinson.netlify.app/)
 
-- 💬 Ask me about **React, MERN or PERN**
+- 💬 Ask me about **React, MERN, PERN or Python**
 
 - 📫 How to reach me **kirkwilkinson@msn.com**
 
