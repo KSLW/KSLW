@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Python, SQLite and sql3**
 
-- 👨‍💻 All of my projects are available at [https://kirkwilkinson.netlify.app/d]([https://kirk-porfolio.vercel.app/])
+- 👨‍💻 All of my projects are available at [https://kirk-porfolio.vercel.app/]
 
 - 💬 Ask me about **React, MERN, PERN or Python**
 
