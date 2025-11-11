@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kslw" alt="kslw" /></a> </p>
 
-- 🔭 I’m currently working on [My Porfolio](https://kirk-porfolio.vercel.app/)
+- 🔭 I’m currently working on [Obsidian-Bot-bBackend] (https://github.com/KSLW/obsidian-core-backend)
 
 - 🌱 I’m currently learning **Python, SQLite and sql3**
 
-- 👨‍💻 All of my projects are available at [https://kirkwilkinson.netlify.app/d](https://kirkwilkinson.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://kirkwilkinson.netlify.app/d]([https://kirk-porfolio.vercel.app/])
 
 - 💬 Ask me about **React, MERN, PERN or Python**
 
