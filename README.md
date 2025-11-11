@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kslw" alt="kslw" /></a> </p>
 
-- 🔭 I’m currently working on [My Porfolio](https://kirkwilkinson.netlify.app/)
+- 🔭 I’m currently working on [My Porfolio](https://kirk-porfolio.vercel.app/)
 
 - 🌱 I’m currently learning **Python, SQLite and sql3**
 
