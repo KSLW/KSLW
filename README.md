@@ -29,4 +29,4 @@
 
 🚀 Live API
 
-🔗 Live Deployment: https://get-inspiered.netlify.app](https://github.com/KSLW/
+🔗 Live Deployment: https://github.com/KSLW/
