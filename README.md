@@ -26,3 +26,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kslw&show_icons=true&locale=en&layout=compact" alt="kslw" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kslw&show_icons=true&locale=en" alt="kslw" /></p>
+
+🚀 Live API
+
+🔗 Live Deployment: https://get-inspiered.netlify.app](https://github.com/KSLW/
