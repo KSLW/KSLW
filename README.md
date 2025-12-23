@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kslw" alt="kslw" /></a> </p>
 
-- 🔭 I’m currently working on [Obsidian-Bot-bBackend] (https://github.com/KSLW/obsidian-core-backend)
+- 🔭 I’m currently working on [Obsidian-Bot-Backend] (https://github.com/KSLW/obsidian-core-backend)
 
 - 🌱 I’m currently learning **Python, SQLite and sql3**
 
